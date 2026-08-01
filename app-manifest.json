@@ -1,0 +1,8 @@
+{
+  "name": "Music Mixer",
+  "bundleId": "com.richardogcc.musicmixer",
+  "description": "Menu bar per-application volume mixer for macOS.",
+  "repo": "richardogcc/Music-Mixer",
+  "minMacOS": "14.4",
+  "artifact": "Music-Mixer-{version}.dmg"
+}
